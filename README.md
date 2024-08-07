@@ -31,12 +31,13 @@
 &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Python-F6C915?style=flat-square&logo=Python&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Numpy-3d60a9?style=flat-square&logo=Numpy&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=Langchain&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Numpy-3d60a9?style=flat-square&logo=Numpy&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Git-ff8000?style=flat-square&logo=Git&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Linux-c9c9c9?style=flat-square&logo=Linux&logoColor=white"> &nbsp;
 
 <br>
+ss
