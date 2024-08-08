@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="mailto:a52675268@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a52675268@gmail.com"/></a> &nbsp; <a href="https://www.instagram.com/ss.hyeok/"> <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=purple&link=mailto:a52675268@gmail.com"/></a> &nbsp; <a href="https://velog.io/@tiemhub/posts/"> <img src="https://img.shields.io/badge/Velog-tiemhub-Brightgreen?style=flat-square&logo=Velog"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a52675268@gmail.com"/></a> &nbsp; <a href="https://www.instagram.com/ss.hyeok/"> <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=purple&link=mailto:a52675268@gmail.com"/></a> &nbsp; <a href="https://velog.io/@tiemhub/posts/"> <img src="https://img.shields.io/badge/Velog-tiemhub-Brightgreen?style=flat-square&logo=Velog"/></a> &nbsp; <a href="https://www.acmicpc.net/user/wetkeyboard"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wetkeyboard"/></a>
 </div>
  
 ## Personal Info
