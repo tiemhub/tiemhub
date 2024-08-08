@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20WELCOME%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Sanghyeok%27s%20github&descAlign=60&descAlignY=50" />
 
 <br>
-
+<div>
 <p align="center">
 <a href="mailto:a52675268@gmail.com" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a52675268@gmail.com" />
@@ -17,7 +17,7 @@
 </a>
 
 </p>
- 
+</div> 
 ## Personal Info
 
 - **Name**: Sanghyeok Seo <br>
