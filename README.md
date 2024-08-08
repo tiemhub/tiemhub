@@ -28,4 +28,13 @@
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Linux-c9c9c9?style=flat-square&logo=Linux&logoColor=white"> &nbsp;
 
-<br>
+## Achievements
+
+| Category | Title                                                          | Date     | Description                                                  |
+| -------- | -------------------------------------------------------------- | -------- | ------------------------------------------------------------ |
+| Paper    | 딥러닝을 통한 TOF MRA 내 뇌협착 탐지                           | ~Present | 한림대학교 동탄성심병원 조상원 교수님과 협업, 미완           |
+| Award    | SW 중심대학 디지털 경진대회: AI 부문, 후원기업상(한글과컴퓨터) | 2024.08  | 생성 AI의 가짜(Fake) 음성 검출 및 탐지                       |
+| Paper    | 주행 안전성 향상을 위한 영상 정보 기반 비규격 방지턱 탐지      | 2023.12  | 한국정보보호학회 (CISC-W 23) 제출 및 구두발표                |
+| Patent   | 비규격 과속방지턱 탐지 장치                                    | 2023.12  | 국내 특허 출원 상태                                          |
+| Award    | 한림대학교 인공지능융합학부 학술제 은상                        | 2023.11  | 영상 정보 기반 비규격 방지턱 탐지                            |
+| Award    | 한림대학교 융합인재학부 학술제 최우수상                        | 2020.12  | 국내 지역별 급성심장정지 환자들의 생존 및 사망률에 대한 연구 |
