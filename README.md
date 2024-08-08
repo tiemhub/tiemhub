@@ -1,23 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20WELCOME%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Sanghyeok%27s%20github&descAlign=60&descAlignY=50" />
 
 <br>
-<div>
-<p align="center">
-<a href="mailto:a52675268@gmail.com" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a52675268@gmail.com" />
-</a> &nbsp;
-<a href="https://www.instagram.com/ss.hyeok/" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
-</a> &nbsp;
-<a href="https://velog.io/@tiemhub/posts/" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Velog-tiemhub-Brightgreen?style=flat-square&logo=Velog" />
-</a> &nbsp;
-<a href="https://hits.seeyoufarm.com" style="text-decoration: none;">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsung3511%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
-</a>
 
-</p>
-</div> 
+<div align="center">
+<a href="mailto:a52675268@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a52675268@gmail.com"/></a> &nbsp; <a href="https://www.instagram.com/ss.hyeok/"> <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=purple&link=mailto:a52675268@gmail.com"/> </a> &nbsp; <a href="https://velog.io/@tiemhub/posts/"> <img src="https://img.shields.io/badge/Velog-tiemhub-Brightgreen?style=flat-square&logo=Velog"/> </a> &nbsp;
+</div>
+ 
 ## Personal Info
 
 - **Name**: Sanghyeok Seo <br>
@@ -40,4 +29,3 @@
 <img src="https://img.shields.io/badge/Linux-c9c9c9?style=flat-square&logo=Linux&logoColor=white"> &nbsp;
 
 <br>
-ss
