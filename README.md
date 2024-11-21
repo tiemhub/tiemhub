@@ -33,7 +33,7 @@
 | Category | Title                                                          | Date     | Description                                                  |
 | -------- | -------------------------------------------------------------- | -------- | ------------------------------------------------------------ |
 | Award    | 한림대학교 SW week AI 경진대회 은상                             | 2024.11 | OCR 성능 향상을 위한 Denoising Task          |
-| Paper    | Latent Diffusion Models for Image Watermarking: A Review of Recent Trends, and Future Directions | 2024.10 |  Latent Diffusion Model을 활용한 워터마킹 기술 서베이 논문 작성 (제출)          |
+| Paper    | <small>Latent Diffusion Models for Image Watermarking: A Review of Recent Trends, and Future Directions</small> | 2024.10 |  Latent Diffusion Model을 활용한 워터마킹 기술 서베이 논문 작성 (제출)          |
 | Award    | 2024 강원 SW 페스티벌 생성 AI 챌린지 대상                      | 2024.08 | LLM을 활용한 챗봇 응답 성능 향상          |
 | Paper    | 딥러닝을 통한 TOF MRA 내 뇌협착 탐지                           | ~Present | 한림대학교 동탄성심병원 조상원 교수님과 협업, 진행중          |
 | Award    | SW 중심대학 디지털 경진대회: AI 부문, 후원기업상(한글과컴퓨터) | 2024.08  | 생성 AI의 가짜(Fake) 음성 검출 및 탐지                       |
