@@ -32,6 +32,8 @@
 
 | Category | Title                                                          | Date     | Description                                                  |
 | -------- | -------------------------------------------------------------- | -------- | ------------------------------------------------------------ |
+| Award    | SW 인재 페스티벌 인기상                             | 2024.12 | CPR 자가 학습을 위한 AI 기반 피드백 어플리케이션          |
+| Award    | 한림대학교 인공지능융합학부 학술제 장려상                             | 2024.11 | LDM 모델에서 학습 불가능한 Unlearnable Style 개발          |
 | Award    | 한림대학교 SW week AI 경진대회 은상                             | 2024.11 | OCR 성능 향상을 위한 Denoising Task          |
 | Paper    | <small>Latent Diffusion Models for Image Watermarking: A Review of Recent Trends, and Future Directions</small> | 2024.10 |  Latent Diffusion Model을 활용한 워터마킹 기술 서베이 논문 작성 (제출)          |
 | Award    | 2024 강원 SW 페스티벌 생성 AI 챌린지 대상                      | 2024.08 | LLM을 활용한 챗봇 응답 성능 향상          |
