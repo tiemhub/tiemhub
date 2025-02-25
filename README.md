@@ -11,9 +11,7 @@
 
 - **Name**: Sanghyeok Seo <br>
 - **Major**: AI Medical Convergence, Hallym University
-- **Affiliation**: Student Researcher in MMC Lab(Multi-Media Laboratory) 2023.08 - 2025.02
-
-                   Researcher in MMC Lab(Multi-Media Laboratory) 2025.03 - present
+- **Affiliation**: Student Researcher in MMC Lab(Multi-Media Laboratory) 2023.08 - 2025.02   Researcher in MMC Lab(Multi-Media Laboratory) 2025.03 - present
 - **Research Interest**: Computer Vision, Multi-modal Learning, Digital Watermarking, Adversarial Attack
   <br>
 
