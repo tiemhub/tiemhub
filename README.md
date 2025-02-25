@@ -13,7 +13,7 @@
 - **Major**: AI Medical Convergence, Hallym University
 - **GPA**: 4.29/4.5 (Graduated first class honor)
 - **Affiliation**: Student Researcher in MMC Lab(Multi-Media Laboratory) 2023.08 - present
-- **Research Interest**: Computer Vision, Multi-modal Learning, Digital Watermarking, Adversarial Attack
+- **Research Interest**: Computer Vision, Digital Watermarking, Adversarial Attack
   <br>
 
 ## Tech Stacks
